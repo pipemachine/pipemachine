@@ -1,6 +1,6 @@
-## Yoooo! 👋
+## Yoooo! 🙋🏽‍♂️
 
-### 📖 My Software Story
+### 📖 My Software Story 💻
 I fell in love with optimization in undergrad, but at some point, I realized that software was the best way serve the benefits of an optimization model at scale. Otherwise, I would have just been a math nerd solving one problem at a time in insolation. At that point, though, I didn't really understand how or what to learn in terms of software development.
 
 I ended up having an intership at [MITRE](https://www.mitre.org/) where I was assigned an operations research problem set as apart of an interdisciplinary team 3D printing an Unmanned Aerial Vehicle. On that project, I got to extend my work into software development and really fell in love. 
